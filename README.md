@@ -22,6 +22,16 @@
 <p align="justify"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>       
 </p>
+ 
+ ## Frameworks
+
+<p align="justify"> 
+ <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>   
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>   
+ <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>    
+</p>
+
+ 
 
 ## Banco de Dados
 <p align="justify"> 
