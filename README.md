@@ -1,8 +1,6 @@
 ## Olá, me chamo Rafael Lemos! 
 ### Bem vindo ao meu perfil GitHub 👋
-  **Data de Nascimeto:** 15/04/2002 / 
-  **Natural de:** Rio Grande - RS / 
-  **Estudando:** Sistemas de Informação - FURG 
+  **Estudante:** Sistemas de Informação - FURG 
  
 <div>
   <a href="https://github.com/RafaLemos86">
@@ -10,19 +8,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaLemos86&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-## Linguagens
+## Conhecimentos
 
 <p align="justify"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>       
 </p>
 
-## Back-End
-<p align="justify"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>       
-</p>
- 
  ## Frameworks e Bibliotecas
 
 <p align="justify"> 
