@@ -1,5 +1,5 @@
 ## Olá, me chamo Rafael Lemos! 👋
-### Desenvolvedor Fullstack | AWS Certified Cloud Practitioner
+### Desenvolvedor Fullstack | AWS Certified Cloud Practitioner | AWS Certified Developer Associate
 
 Desenvolvedor Fullstack com experiência em **PHP (Laravel)**, **JavaScript/TypeScript (Node.js, Nest.js, React.js)** e bancos de dados relacionais e NoSQL. Atuando com **Cloud (AWS, Docker)** e seguindo boas práticas como **SOLID** e **Clean Code**.
 
@@ -24,6 +24,7 @@ Bacharelado em **Sistemas de Informação** pela Universidade Federal do Rio Gra
 ### ☁️ Cloud & DevOps
 <p align="justify">
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge"/>
